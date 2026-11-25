@@ -20,14 +20,20 @@ All text is their own wording from the live site, lightly tidied (a typo fixed: 
 
 ## Pitch points: what's wrong with the old site and what this fixes
 
-- **Big empty banner on the home page.** The old slider shows template placeholder text ("Slide title / Write your caption here / Button") five times, and on load it's a large blank box. The new home page opens with a real headline, a call button and three of their best job photos.
-- **Phone number cut off in the header.** The old header is a single 956px image with the number baked in, so it's not tappable and gets cropped. The new header has a real `tel:` button showing the full number. On phones there's a tap-to-call button in the header plus a sticky "Call 0439 411 989" bar at the bottom.
+- **Slider filler text in the code.** (Not confirmed that visitors see it, so look before mentioning it.) The old slider shows template placeholder text ("Slide title / Write your caption here / Button") five times, and on load it's a large blank box. The new home page opens with a real headline, a call button and three of their best job photos.
+- **On a computer, the phone number is part of a flat header picture.** On phones it's real text with a tap-to-call link. The new header has a real call button, and phones get a sticky "Call 0439 411 989" bar.
 - **Broken social icons.** The old Share / Tweet / Share / Mail icons are generic share buttons that render as empty grey boxes and don't link to any Fencing Finesse profile. They've been removed (see "to confirm" below).
 - **Gallery is hard to use.** The old gallery is 37 unlabelled "Button" thumbnails. The new one is a big photo grid with captions, filters and a swipeable full-screen viewer, since their finished jobs are the best sales tool they have.
 - **Logo and tagline are a flat image.** The logo badge is kept, but the business name and "The right side of the fence" tagline are now real text (sharper, readable by Google).
 - **Dated look and code.** Grey, small, low-contrast text on a paper texture. The new site keeps their green (#669900) and charcoal, with bold condensed headings that suit a trade business.
 - **SEO.** Each page has its own title and description built around their keywords (batten gates Perth, batten fencing, Colorbond fencing, pool fencing, fencing repairs).
 - **Free measure & quote** (mentioned only once on the old contact page) is now a call to action on every page.
+
+### Don't say (checked 24 Nov 2026)
+
+- "The number is cut off" or "customers can't tap it". Phones get a separate version, and all 5 pages checked have a tap-to-call link.
+- "It doesn't work on phones."
+- Safe points: the dated desktop look, the uncaptioned gallery, and the free quote not being on the home page.
 
 ## Polish features
 
